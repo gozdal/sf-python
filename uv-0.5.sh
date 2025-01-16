@@ -1,0 +1,1 @@
+/uv/0.5.20/bin/uv cache clean && /uv/0.5.20/bin/uv run example.py
